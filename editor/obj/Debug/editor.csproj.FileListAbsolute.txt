@@ -1,0 +1,63 @@
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\bin\Debug\editor.exe.config
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.csprojResolveAssemblyReference.cache
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\obj\Debug\MainWindow.baml
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\obj\Debug\MainWindow.g.cs
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\obj\Debug\App.g.cs
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor_MarkupCompile.cache
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.g.resources
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.Properties.Resources.resources
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.csproj.GenerateResource.Cache
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\bin\Debug\editor.exe
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\bin\Debug\editor.pdb
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.exe
+c:\users\mohamed slama\documents\visual studio 2013\Projects\editor\editor\obj\Debug\editor.pdb
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\background.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Copy.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Crop.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Cut.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Ellipse.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\EraseByLine.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\EraseByPoint.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\New.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Paste.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Pin.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Rectangle.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Rotate.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Save.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\select.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Text.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\obj\Debug\editor_Content.g.cs
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\editor\editor\bin\Debug\Images\Open.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\editor.exe.config
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\editor.exe
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\editor.pdb
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\background.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Copy.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Crop.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Cut.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Ellipse.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\EraseByLine.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\EraseByPoint.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\New.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Open.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Paste.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Pin.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Rectangle.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Rotate.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Save.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\select.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\Images\Text.jpg
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\editor.exe
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\bin\Debug\editor.pdb
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\MainWindow.baml
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\MainWindow.g.cs
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\App.g.cs
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\editor_Content.g.cs
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\editor_MarkupCompile.cache
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\editor.g.resources
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\editor.Properties.Resources.resources
+C:\Users\Mohamed Slama\Documents\Visual Studio 2013\Projects\Whole Project\editor\editor\obj\Debug\editor.csproj.GenerateResource.Cache
+D:\E-book Col\programing courses\Open Source\Projects\Whole Project\editor\editor\bin\Debug\editor.exe.config
+D:\E-book Col\programing courses\Open Source\Projects\Whole Project\editor\editor\obj\Debug\editor.exe
+D:\E-book Col\programing courses\Open Source\Projects\Whole Project\editor\editor\obj\Debug\editor.pdb
